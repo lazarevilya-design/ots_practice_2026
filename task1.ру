@@ -10,7 +10,7 @@ def get_system_info():
     system_info = {
         "student_name": "Лазарев Илья Алексеевич",
         "academic_group": "ИВТИИбд-13",
-        "github_link": ""
+        "github_link": "https://github.com/lazarevilya-design"
     }
     return system_info
 
